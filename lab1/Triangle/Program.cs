@@ -67,9 +67,9 @@ namespace Triangle
             }
 
 
-            if (result[0] == 0 || result[1] == 0 || result[2] == 0)
+            if (result[0] <= 0 || result[1] <= 0 || result[2] <= 0)
             {
-                throw new ArgumentException("Triangle sides should not be equal to 0");
+                throw new ArgumentException("Triangle side should be more than 0");
             }
 
             return result;
