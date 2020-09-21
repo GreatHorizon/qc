@@ -1,23 +1,33 @@
-	
-Invalid argument count. It should be: triangle.exe <side1> <side2> <side3>
 1 2
+Invalid argument count. It should be: triangle.exe <side1> <side2> <side3>
+
 Invalid argument count. It should be: triangle.exe <side1> <side2> <side3>
 1
 Invalid argument count. It should be: triangle.exe <side1> <side2> <side3>
 1 2 3 4 5 6
 Invalid argument count. It should be: triangle.exe <side1> <side2> <side3>
 a a a
-Sides should be numeric
+Error
+3EA 3EA 3EA
+Error
 1 2 sdad
-Sides should be numeric
+Error
 1/99 12 0
-Sides should be numeric
+Error
+-a12 12 0
+Error
 1.123as 2 5
-Sides should be numeric
+Error
+1.as 2 5
+Error
+.as 2 5
+Error
+four four four
+Error
 0 0 0
-Triangle side should be more than 0
+Error
 -5 0 2
-Triangle side should be more than 0
+Error
 1 1 3
 Triangle does not exist
 1 3 1
@@ -36,3 +46,7 @@ Isosceles
 Isosceles
 3 4 2
 Usual
+1,3333E+900 1,3333E+900 1,3333E+900
+Error
+1,3333E+90 1,3333E+90 1,3333E+90
+Equilateral
