@@ -1,0 +1,12 @@
+﻿http://91.210.252.240/broken-links/../links/locked.php 423 423
+http://91.210.252.240/broken-links/tel://1234567920 403 Forbidden
+http://91.210.252.240/broken-links/mailto:info@yoursite.com 403 Forbidden
+http://91.210.252.240/broken-links/../links/404not404found404.php 404 NotFound
+http://91.210.252.240/broken-links/../links/return500bad.php 500 InternalServerError
+http://91.210.252.240/broken-links/../links/deny403forbidden.php 403 Forbidden
+http://91.210.252.240/broken-links/../links/502gateaway502.php 502 BadGateway
+http://91.210.252.240/broken-links/../links/teapot418.php 500 InternalServerError
+http://91.210.252.240/broken-links/../links/un503availible.php 503 ServiceUnavailable
+http://91.210.252.240/broken-links/../links/access401unauthorized.php 401 Unauthorized
+Links count 10
+Date 05.10.2020 10:40:53

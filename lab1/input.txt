@@ -28,6 +28,10 @@ Error
 Error
 -5 0 2
 Error
+1,3333E+900 1,3333E+900 1,3333E+900
+Error
+1,3333E+90 1,3333E+90 1,3333E+90
+Equilateral
 1 1 3
 Triangle does not exist
 1 3 1
@@ -46,7 +50,3 @@ Isosceles
 Isosceles
 3 4 2
 Usual
-1,3333E+900 1,3333E+900 1,3333E+900
-Error
-1,3333E+90 1,3333E+90 1,3333E+90
-Equilateral

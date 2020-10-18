@@ -1,0 +1,13 @@
+﻿http://91.210.252.240/broken-links/index.html 200 OK
+http://91.210.252.240/broken-links/about.html 200 OK
+http://91.210.252.240/broken-links/work.html 200 OK
+http://91.210.252.240/broken-links/pricing.html 200 OK
+http://91.210.252.240/broken-links/blog.html 200 OK
+http://91.210.252.240/broken-links/../links/movedper.php 301 MovedPermanently
+http://91.210.252.240/broken-links/contact.html 200 OK
+https://colorlib.com 200 OK
+http://91.210.252.240/broken-links/blog-single.html 200 OK
+http://91.210.252.240/broken-links/../links/found302.php 302 Redirect
+http://91.210.252.240/broken-links/../links/no204content.php 204 NoContent
+Links count 11
+Date 05.10.2020 10:40:53

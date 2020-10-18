@@ -1,0 +1,9 @@
+﻿http://91.210.252.240/broken-links/index.html 200 OK
+http://91.210.252.240/broken-links/about.html 200 OK
+http://91.210.252.240/broken-links/work.html 200 OK
+http://91.210.252.240/broken-links/pricing.html 200 OK
+http://91.210.252.240/broken-links/blog.html 200 OK
+http://91.210.252.240/broken-links/contact.html 200 OK
+https://colorlib.com 200 OK
+http://91.210.252.240/broken-links/blog-single.html 200 OK
+http://91.210.252.240/broken-links/../links/no204content.php 204 NoContent
