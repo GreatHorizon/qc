@@ -1,0 +1,4 @@
+start -> wait for pin(card inserted) -> 1st try(enter pin) -> access to account(pin ok)
+start -> wait for pin(card inserted) -> 1st try(enter pin) -> 2nd try(pin not ok) -> access to account(pin ok)
+start -> wait for pin(card inserted) -> 1st try(enter pin) -> 2nd try(pin not ok) -> 3rd try(pin not ok) ->access to account(pin ok)
+start -> wait for pin(card inserted) -> 1st try(enter pin) -> 2nd try(pin not ok) -> 3rd try(pin not ok) -> eat card(pin not ok)

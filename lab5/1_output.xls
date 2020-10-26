@@ -1,0 +1,43 @@
+Font	Size	Typeface	Color	Underline	ColorUnderline	CrossedOut	DoubleStrikethrough	Superscript	Subscript	Shift	SmallCaps	AllUppercase	AlignHeightOfCharacters
+Verdana	20	bold italic	green	no	no	true	false	true	false	1	false	true	false
+Arial	1	usual	blue	wavy	white	false	true	false	true	-45	false	true	true
+Times New Roman	20	italic	blue	line	black	false	true	false	true	-1	true	false	false
+Calibri	1	bold	white	wavy	white	false	true	false	true	-1	false	true	true
+Verdana	50	bold italic	black	no	no	false	true	false	true	-1	true	false	false
+Calibri	20	bold	blue	no	no	true	false	false	false	0	false	true	true
+Arial	20	bold italic	red	line	black	false	false	false	true	-100	false	true	false
+Arial	20	bold	black	wavy	red	true	false	true	false	100	false	true	true
+Arial	50	bold	red	line	red	true	false	true	false	45	false	true	true
+Calibri	4000	bold italic	white	line	red	false	true	true	false	100	true	false	false
+Courier	4000	bold	green	dotted	white	false	true	false	true	-1	true	false	true
+Arial	4000	bold	green	no	no	false	true	true	false	100	false	false	false
+Verdana	1	italic	black	dotted	white	false	true	false	true	-100	false	true	false
+Courier	1	bold	white	wavy	white	true	false	true	false	1	true	false	false
+Calibri	50	usual	red	no	no	false	true	false	true	-1	false	false	false
+Arial	50	bold	black	no	no	false	false	false	true	-100	false	false	false
+Calibri	4000	italic	black	dotted	black	false	true	true	false	1	true	false	true
+Verdana	50	bold	blue	dotted	black	true	false	true	false	100	true	false	true
+Courier	50	usual	green	wavy	black	false	true	false	false	0	false	true	true
+Calibri	4000	bold italic	blue	wavy	red	true	false	false	true	-100	true	false	true
+Times New Roman	20	bold italic	red	dotted	black	false	true	true	false	1	false	true	true
+Verdana	4000	usual	black	line	white	true	false	false	false	0	false	false	false
+Courier	50	italic	white	line	white	false	true	true	false	100	true	false	false
+Calibri	1	bold italic	green	line	black	true	false	false	true	-45	false	true	false
+Verdana	50	italic	red	wavy	red	false	true	false	true	-45	true	false	true
+Courier	20	bold italic	white	dotted	white	false	true	false	true	-100	false	false	true
+Times New Roman	20	usual	green	no	no	false	true	false	true	-100	false	true	true
+Arial	50	usual	blue	line	red	false	true	true	false	1	false	true	true
+Verdana	1	bold italic	white	dotted	black	false	true	true	false	45	false	true	true
+Arial	1	usual	red	no	no	false	true	true	false	100	true	false	false
+Arial	4000	italic	black	dotted	white	true	false	false	true	-45	true	false	true
+Calibri	4000	bold	red	line	white	false	true	true	false	45	true	false	true
+Times New Roman	50	italic	green	wavy	red	true	false	true	false	45	false	true	false
+Courier	50	italic	black	no	no	false	true	true	false	45	false	true	false
+Courier	4000	bold	white	no	no	true	false	false	true	-45	false	true	false
+Courier	20	usual	blue	wavy	white	false	true	true	false	45	false	true	true
+Times New Roman	4000	italic	white	wavy	black	false	true	true	false	100	false	true	false
+Arial	1	usual	white	dotted	red	true	false	false	true	-1	false	true	false
+Courier	20	italic	red	dotted	red	false	true	false	false	0	false	true	true
+Arial	20	bold italic	white	no	no	false	true	false	false	0	true	false	false
+Times New Roman	20	bold	red	no	no	false	true	false	true	-45	false	true	false
+Times New Roman	1	bold italic	black	dotted	white	false	true	false	false	0	false	true	true
