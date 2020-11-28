@@ -1,5 +1,5 @@
-Font: Verdana, Arial, Times New Roman, Calibri, Courier
-Size:  1, 20, 50, 4000
+Font: Verdana(без засечек), Arial(без засечек), Times New Roman(c засечками), Calibri(c засечками), Courier(моноширинный)
+Size:  1, 20, 50.5, 4000
 Typeface: usual, italic, bold, bold italic
 Color: black, white, green, blue, red
 Underline: no, line, dotted, wavy
